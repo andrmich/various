@@ -159,3 +159,9 @@ fabric.properties
 .idea/httpRequests
 
 .idea
+.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/various_tutorials.iml
+.idea/vcs.xml
